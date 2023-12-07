@@ -1,10 +1,6 @@
 #add:packagename
 #del:packagename
 
-# Français sur système installé en anglais
-add:aspell-fr
-add:libreoffice-langpack-fr
-
 # Specifque Hardware
 add:amd-ucode-firmware
 
@@ -52,53 +48,44 @@ add:telnet
 add:borgbackup
 
 # CLI : Multimedia
-add:abcde
-add:sox
-add:vorbisgain
-add:mediainfo
-add:yt-dlp
+#add:abcde
+#add:sox
+#add:vorbisgain
+#add:mediainfo
+#add:yt-dlp
 
 # CLI : Divers
 add:git
-add:pv
-add:android-tools
 
 # GUI : Multimedia
-add:clementine
-add:smplayer
-add:soundconverter
-add:kdenlive
-add:audacity
-add:easytag
-del:peek
-add:obs-studio
-add:obs-studio-plugin-webkitgtk
-add:mediainfo-gui
+#add:clementine
 
 # GUI : Virtualisation
-add:VirtualBox
-add:virt-viewer
+#add:VirtualBox
+#add:virt-viewer
 
 # GUI : Graphisme
-add:gimp
+#add:gimp
 add:flameshot
 
 # GUI : Reseau
-add:remmina
-del:anydesk
+#add:remmina
+#del:anydesk
 
 # GUI : Internet
-del:epiphany
+#del:epiphany
 add:evolution
-add:vivaldi-stable
-add:google-chrome-stable
-add:telegram-desktop
+#add:vivaldi-stable
+#add:google-chrome-stable
+#add:telegram-desktop
 add:discord
 
 # GUI : Utilitaires
-add:cool-retro-term
-add:guake
+#add:cool-retro-term
+#add:guake
 
 # GUI : Sécurité
-add:keepassxc
+#add:keepassxc
 
+# Gaming
+add:lutris

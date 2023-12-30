@@ -9,6 +9,7 @@ add:seahorse
 add:gnome-tweaks
 add:file-roller
 add:dconf-editor
+add:gedit
 del:gnome-boxes
 del:abrt
 

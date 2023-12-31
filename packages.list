@@ -60,6 +60,7 @@ add:git
 
 # GUI : Multimedia
 #add:clementine
+add:vlc
 
 # GUI : Virtualisation
 #add:VirtualBox
